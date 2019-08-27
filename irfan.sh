@@ -11,9 +11,9 @@ toilet -f slant --gay "Login Success"
 sleep 2
 clear
 else
-  echo "\033[31;1mPASSWORD SALAH GIBLOK"
+  echo "\033[31;1mPASSWORD SALAH GOBLOK"
   echo "\033[37;1m"
-  sleep 60
+  sleep 100
   sh 991.sh
 fi
 clear
@@ -256,5 +256,5 @@ echo $cy "║╚╝║║║═╣─║║─║╔╗║║╚═╗║║═�
 echo $cy "╚══╝╚══╝─╚╝─╚╝╚╝╚══╝╚══╝─╚╝╚╝─╚══╝╚══╝"
 echo $pur"______________________________________"
 echo ""
-echo $pu "MAAF TOOLS DEFACEWEB SEDANG UPDATE:)"
+echo $pu "MAAF TOOLS DEFACEWEB SEDANG UPDATE HUB TUAN.F4R1D:)"
 fi
