@@ -134,7 +134,7 @@ sleep 4
 echo "Berhasil mencury Data korban" | lolcat
 echo "=============================="
 echo $me"Email/HP : Not found!!"
-echo $cy"Password : Farid14004"
+echo $cy"Password : taek120"
 echo "=============================="
 echo $me"NOTE : JIKA ADA MASALAH HUBUNGI AUTHOR"
 echo $i"Terimakasih telah menggunakan tools ini"
